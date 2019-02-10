@@ -1,4 +1,3 @@
-"outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
@@ -525,7 +524,7 @@
       "                },\n",
       "                \"media_url\": \"http://pbs.twimg.com/media/DyhLbnKWoAAZxBU.jpg\"\n",
       "            }\n",
-      "        ]\n",
+      "        
       "    }\n",
       "}\n"
      ]
